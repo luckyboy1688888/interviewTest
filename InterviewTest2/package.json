@@ -1,0 +1,17 @@
+{
+  "name": "interviewtest",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+  
+  }
+}

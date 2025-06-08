@@ -1,0 +1,17 @@
+{
+  "name": "interviewtest",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "db_init": "npx ts-node init.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.15.30",
+    "pg": "^8.16.0",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^0.3.24"
+  }
+}
