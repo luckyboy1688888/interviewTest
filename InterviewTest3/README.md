@@ -9,3 +9,4 @@
 1. `npm run db_init`
 2. `check DB tables`
 
+![image info](./165937.png)
